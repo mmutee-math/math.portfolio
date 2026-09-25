@@ -26,9 +26,9 @@ My goal is to leverage my strong foundation in Graph Theory, Functional Analysis
 ### 🛠️ Technical Skills
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Programming** | `Python` `MATLAB` `SQL` |
+| **Programming** | `Python` `MATLAB` `SQL(learning)` |
 | **AI & Machine Learning** | `PyTorch` `Scikit-Learn` `Graph Neural Networks (Learning)` |
-| **Data Analysis & BI** | `Power BI` `MS Excel` `Pandas` `NumPy` |
+| **Data Analysis & BI** | `Power BI(learning)` `MS Excel` `Pandas` `NumPy` |
 | **Mathematical Modeling** | `Numerical Analysis` `Optimization` `Statistical Modeling` |
 
 ---
@@ -40,15 +40,15 @@ My goal is to leverage my strong foundation in Graph Theory, Functional Analysis
 ---
 
 ### 📜 Certifications
-- 🤖 **[Artificial Intelligence using Python](https://digiskills.pk/verify/Y7NKA2XMK)** - DigiSkills (Virtual University)
-- 📈 **[Data Analytics & Business Intelligence](https://digiskills.pk/verify/T4Y4N9BMK)** - DigiSkills (Virtual University)
+- 🤖 **[Artificial Intelligence using Python](https://digiskills.pk/verify)** - DigiSkills (Virtual University)
+- 📈 **[Data Analytics & Business Intelligence](https://digiskills.pk/verify)** - DigiSkills (Virtual University)
 
 ---
 
 ### 📫 Let's Connect!
 I am actively seeking fully funded Master's opportunities (Erasmus Mundus, DAAD) in AI, Data Science, or Computational Mathematics. Let's discuss research, mathematics, or AI!
 
-- 📧 **Email:** [muteeurrahman331@gmail.com](mailto:muteeurrahman331@gmail.com)
+- 📧 **Email:** [m.muteeurrahman.math@gmail.com](mailto:m.muteeurrahman.math@gmail.com)
 - 💼 **LinkedIn:** [Add your LinkedIn URL here]
 - 🌐 **Location:** Bahawalnagar, Punjab, Pakistan
 
